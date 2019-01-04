@@ -1,17 +1,6 @@
-<p align="center">
-<img src="https://pigjian.com/images/v-distpicker.png" alt="Powered By Jiajian Chan" width="160">
-</p>
 
-<p align="center">A flexible, highly available district selector for picking provinces, cities and districts of China.</p>
+原仓库提交的issues 由于原作者疏于维护，故自己fork 维护一份
 
-<p align="center">
-  <br>
-  <b>创造不息，交付不止</b>
-  <br>
-  <a href="https://www.yousails.com">
-    <img src="https://yousails.com/banners/brand.png" width=350>
-  </a>
-</p>
 
 # V - Distpicker
 
@@ -20,13 +9,13 @@ Here is [documents](http://distpicker.pigjian.com/)
 ## Installation
 
 ```javascript
-npm install v-distpicker --save
+npm i v-xu-distpicker --save
 ```
 
 Or
 
 ```javascript
-yarn add v-distpicker --save
+yarn add v-xu-distpicker --save
 ```
 
 ## Usage
